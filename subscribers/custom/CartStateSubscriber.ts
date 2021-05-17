@@ -1,6 +1,6 @@
 import createProductData from '../../helper/createProductData';
 import { currentStoreView } from '@vue-storefront/core/lib/multistore'
-import Vue from "vue/types/vue";
+import Vue from 'vue'
 
 declare const dataLayer;
 

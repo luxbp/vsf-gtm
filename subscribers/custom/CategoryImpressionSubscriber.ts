@@ -1,5 +1,5 @@
 import * as types from '@vue-storefront/core/modules/catalog/store/category/mutation-types';
-import Vue from "vue/types/vue";
+import Vue from 'vue'
 
 declare const dataLayer;
 
